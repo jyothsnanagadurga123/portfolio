@@ -12,7 +12,10 @@ header {
   background: #222;
   color: #fff;
 }
-
+.circle-img {
+    border-radius: 50%;
+    object-fit: cover;
+}
 .logo {
   font-size: 1.5rem;
   font-weight: bold;
@@ -64,4 +67,5 @@ p {
   .sub1, .sub2 {
     flex-direction: column;
   }
+
 }
