@@ -9,7 +9,7 @@ body {
     color: #333;
 }
 .circle-img {
-    border-radius: 50%;
+    border-radius: 70%;
     object-fit: cover;
 }
 header {
@@ -104,4 +104,5 @@ nav ul li a:hover {
         justify-content: center;
     }
 }
+
 
