@@ -5,7 +5,10 @@ body {
     background-color: #f5f6fa;
     color: #333;
 }
-
+.circle-img {
+    border-radius: 50%;
+    object-fit: cover;
+}
 /* Header */
 .header {
     display: flex;
@@ -111,3 +114,4 @@ body {
     background-color: #2f3640;
     color: #f5f6fa;
 }
+
