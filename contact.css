@@ -14,7 +14,7 @@ header {
   background: #222;
   color: #fff;
 }
-.circle-img {
+  .circle-img {
     border-radius: 50%;
     object-fit: cover;
 }
@@ -70,4 +70,5 @@ header {
     padding: 2rem 1rem;
   }
 }
+
 
