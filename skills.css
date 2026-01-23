@@ -13,7 +13,10 @@ header {
   background: #222;
   color: #fff;
 }
-
+.circle-img {
+    border-radius: 50%;
+    object-fit: cover;
+}
 .logo {
   font-size: 1.5rem;
   font-weight: bold;
@@ -88,4 +91,5 @@ header {
   .skills-container {
     grid-template-columns: 1fr;
   } 
+
 }
